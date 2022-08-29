@@ -18,5 +18,5 @@
 -  `rm -rf Unlimited-Dump `
 - `git clone https://github.com/bitul404/Unlimited-Dump `
 - `cd Unlimited-Dump `
-- `python Dump.py. `
+- `python Dump.py `
 
